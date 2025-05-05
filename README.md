@@ -16,7 +16,7 @@ Welcome to my personal portfolio website! This project is built with **Laravel**
 
 ## 📸 Screenshots
 
-| Homepage | Menu | Mobile View |
+| Homepage | About Me | Projects |
 |---------|------|-------------|
 | ![Home Screenshot](public/images/home.png) | ![About me Screenshot](public/images/about.png) | ![Projects](public/images/project.png) |
 
